@@ -1,12 +1,12 @@
-## Absensi Karyawan QR Code
+# Absensi Karyawan QR Code
 
-# Absensi Karyawan QR Code dibuat dengan Framework CodeIgniter-3
+## Absensi Karyawan QR Code dibuat dengan Framework CodeIgniter-3
 
-# Diperlukan
+## Diperlukan
 - PhpMyAdmin
 - MySQL
 
-# Cara Menggunakan
+## Cara Menggunakan
 
 1. git clone ``
 2. Copy folder `absensikaryawan` ke folder `htdocs`
@@ -15,7 +15,7 @@
 5. Jalankan proyek dengan mengetik `localhost/absensikaryawan` pada browser
 6. Hubungi web developer untuk username dan password.
 
-# Fitur
+## Fitur
 
 - Login Multi User
 - Data Karyawan
